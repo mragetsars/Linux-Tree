@@ -3,7 +3,7 @@ If I'm not mistaken, this is a representation of the folder structure in the Lin
 
     INPUT:                  OUTPUT:
     |                       |
-    |24 5                   |
+    |24                   |
     |file1 0        -->     |__file1
     |folder1 0      -->     |__folder1
     |file2 2        -->     |  |__file2
