@@ -18,7 +18,7 @@ If I'm not mistaken, this is a representation of the folder structure in the Lin
     |file5 11       -->     |        |__file5
     |file6 0        -->     |__file6
     |folder8 0      -->     |__folder8
-    |file7 14       -->     |__file7
+    |file7 14       -->        |__file7
     |file8 14       -->        |__file8
     |folder9 14     -->        |__folder9
     |folder10 17    -->           |__folder10
